@@ -12,7 +12,7 @@
 #include "errors.h"
 #include "ArduinoJson-v5.13.2.h"
 #include "FS.h"
-#include <LITTLEFS.h>
+// #include <LITTLEFS.h>
 
 #define COMMAND_REPLY_BUFFER_SIZE 240
 #define REPLY_ELEMENT_SIZE 250
